@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
+ * written bt aym
  * Return: 0
  */
 
