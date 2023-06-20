@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
- * written bt aym
+ * is written by aym
  * Return: 0
  */
 
